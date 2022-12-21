@@ -1,2 +1,2 @@
-# find-missing-phrase-in-s3-file
+# identify-s3-files-that-are-missing-phrases
 Identifies from a list of S3 objects, those that are missing a specific phrase
