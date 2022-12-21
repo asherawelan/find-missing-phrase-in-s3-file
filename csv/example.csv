@@ -1,0 +1,4 @@
+filename,when_phrase,must_phrase,checked,correct
+Only check must_phrase if this phrase exists - if empty, always checks,Some phrase that must be there,True,False
+Link Text,http://www.thelink.com,,False,False
+,http://www.thelink.com,,False,False
